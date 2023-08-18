@@ -1,1 +1,1 @@
-# Liver_Patient_Pricdiction_
+# Liver_Patient_Pridiction_
